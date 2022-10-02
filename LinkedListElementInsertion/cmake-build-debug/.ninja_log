@@ -1,0 +1,9 @@
+# ninja log v5
+317	448	1663529667052511246	LinkedListElementInsertion	947e6e11c534cd79
+1	317	1663529666924216584	CMakeFiles/LinkedListElementInsertion.dir/main.cpp.o	e91da8557cee4be2
+3	1524	1663904710657006329	CMakeFiles/LinkedListElementInsertion.dir/main.cpp.o	e91da8557cee4be2
+1524	1832	1663904710965005756	LinkedListElementInsertion	947e6e11c534cd79
+1	413	1663904793136887865	CMakeFiles/LinkedListElementInsertion.dir/main.cpp.o	e91da8557cee4be2
+413	519	1663904793240887757	LinkedListElementInsertion	947e6e11c534cd79
+2	373	1663904865216835922	CMakeFiles/LinkedListElementInsertion.dir/main.cpp.o	e91da8557cee4be2
+374	536	1663904865380835854	LinkedListElementInsertion	947e6e11c534cd79
