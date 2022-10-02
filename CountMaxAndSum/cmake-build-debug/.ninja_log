@@ -1,0 +1,4 @@
+# ninja log v5
+320	412	1663043838563339240	CountAndSum	b34e5692ebcd31f
+1	304	1663133272447453640	CMakeFiles/CountMaxAndSum.dir/main.cpp.o	5ce270b0eb9d730
+304	395	1663133272535453783	CountMaxAndSum	abd43ab29611cee3
